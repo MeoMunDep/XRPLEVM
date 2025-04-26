@@ -1,1 +1,1 @@
-console.log(`Just stars this repo so it will be launched soon...`)
+console.log(`Tunggu saja 500 bintang, terima kasih^^`)
